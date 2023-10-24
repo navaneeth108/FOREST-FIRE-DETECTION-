@@ -1,0 +1,5 @@
+fire2.O
+fire
+smoke
+tree
+people
