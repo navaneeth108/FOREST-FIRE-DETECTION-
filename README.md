@@ -6,3 +6,7 @@ the largest number of fire accidents occurring every year. Hence, to avert the t
 method of fire detection using Fixed wing type unmanned aerial vehicle which uses an First person view camera integrated to
 the fuselage and the microprocessor based system uses several pre-processing techniques as well as Computer vision package for
 detection of forest fires furthermore, with help of a ground station it will timely alert the officials stationed at the applied area.
+
+How to Run the application?
+
+Run the following python file (TFLite_detection_webcam.py), which  will be using the fire detection deepleaning model in the background to detect fire from the webcam input of your system.
